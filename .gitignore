@@ -3,7 +3,6 @@ bin
 *~
 target
 */target/*
-.project
 .classpath
 .settings
 mem.h2.db
