@@ -1,0 +1,503 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+43 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$1.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$10.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$11.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$12.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$13.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$14.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$15.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$16$$anonfun$apply$1.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$16.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$2.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$3.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$4.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$5.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$6.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$7.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$8.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$9.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Build$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Build$Settings$$anonfun$1.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Build$Settings$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Build.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$akka$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$akka$streams$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$json4s$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$kafka$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$mysql$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$scalanlp$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$scalaz$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$slick$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$spray$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$1.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$2.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$3.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$4.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$5.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/ResolverSettings$.class
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/ResolverSettings.class
+binary dependencies:
+29 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/run/jars/run-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.12.0.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.ivy2/cache/scala_2.10/sbt_0.13/net.virtual-void/sbt-dependency-graph/jars/sbt-dependency-graph-0.7.4.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> /Users/ivan/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> /Users/ivan/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> /Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+43 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$1
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$10
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$11
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$12
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$13
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$14
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$15
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$16
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$16$$anonfun$apply$1
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$2
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$3
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$4
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$5
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$6
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$7
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$8
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings$$anonfun$9
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Build
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Build$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Build$Settings$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Build$Settings$$anonfun$1
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$akka$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$akka$streams$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$json4s$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$kafka$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$mysql$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$scalanlp$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$scalaz$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$slick$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies$spray$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> PackageSprayBuild
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> PackageSprayBuild$
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> PackageSprayBuild$$anonfun$root$1
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> PackageSprayBuild$$anonfun$root$2
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> PackageSprayBuild$$anonfun$root$3
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> PackageSprayBuild$$anonfun$root$4
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> PackageSprayBuild$$anonfun$root$5
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> ResolverSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> ResolverSettings$
+used names:
+213 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> ++
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> ++=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> +=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> :=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> <++=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> <init>
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> ==
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Any
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Append
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> AssemblyKeys
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> BaseSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Compile
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> ConfigKey
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Def
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> DefaultOptions
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> FullInstance
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> InitializeInstance
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> InputWrapper
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Keys
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> MergeStrategy
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Nothing
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Plugin
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> ResolverSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Scoped
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Seq
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> Setting
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> StdoutOutput
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> _root_
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> append1
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> appendN
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> appendSeq
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> apply
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> assembly
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> assemblyMergeStrategy
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> baseSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> canBuildFrom
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> collection
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> compile
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> concat
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> configurationToKey
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> doc
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> exportJars
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> fork
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> graph
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> graphSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> in
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> javaOptions
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> javacOptions
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> macroValueI
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> map
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> name
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> net
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> oldStrategy
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> organization
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> outputStrategy
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> package
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> projectSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> publishArtifact
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> pure
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> resolvers
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> sbt
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> sbtPlugin
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> sbtassembly
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> scala
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> scalaVersion
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> scalacOptions
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> scaladoc
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> set
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> t2ToTable2
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> test
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> value
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> version
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> virtualvoid
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> wrapInit_☃☃
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> x
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> ++
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> :=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> <init>
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Any
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> AnyRef
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> BaseSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Boolean
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Build
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Classpaths
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Defaults
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> InitializeInstance
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Keys
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> ManifestFactory
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Nothing
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Predef
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Process
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Seq
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Setting
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> SettingKey
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> Settings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> String
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> StringContext
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> ThisBuild
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> _root_
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> apply
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> baseSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> canBuildFrom
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> classType
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> collection
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> defaultConfigs
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> head
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> in
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> incremental
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> itSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> ivyPublishSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> jvmPublishSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> lines
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> major
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> minor
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> package
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> project
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> projectSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> pure
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> reflect
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> root
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> s
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> sbt
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> scala
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> set
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> settingKey
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> snapshot
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> version
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> %
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> %%
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> <init>
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> AnyRef
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> Dependencies
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> actor
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> akka
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> apns
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> breeze
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> can
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> cassandra_driver
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> client
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> cluster
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> connector
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> contrib
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> core
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> exclude
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> http
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> http_core
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> httpx
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> intransitive
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> jackson
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> json
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> json4s
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> kafka
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> leveldb
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> moduleIDConfigurable
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> mysql
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> nak
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> native
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> natives
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> package
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> parboiled
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> persistence
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> persistence_cassandra
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> routing
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> sbt
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> scala
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> scala_reflect
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> scalacheck
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> scalanlp
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> scalatest
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> scalaz
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> scodec_bits
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> slf4j
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> slf4j_simple
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> slick
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> slickVersion
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> specs2
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> spray
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> sprayJsonVersion
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> streams
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> testkit
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> toGroupID
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> version
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> <init>
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> Build
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> PackageSprayBuild
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> Project
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> Reference
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> apply
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> classpathDependency
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> dependsOn
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> docker
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> file
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> getAbsoluteFile
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> package
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> root
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> sbt
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> toURI
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> uriToRef
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> <init>
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> AnyRef
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> Resolver
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> ResolverSettings
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> Seq
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> apply
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> bintrayRepo
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> collection
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> defaultLocal
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> mavenLocal
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> resolvers
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> sbt
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> scala
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> sonatypeRepo
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> typesafeRepo
+product stamps:
+43 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$1.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$10.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$11.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$12.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$13.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$14.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$15.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$16$$anonfun$apply$1.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$16.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$2.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$3.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$4.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$5.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$6.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$7.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$8.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$$anonfun$9.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings$.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/BaseSettings.class -> lastModified(1423199897000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Build$.class -> lastModified(1423378839000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Build$Settings$$anonfun$1.class -> lastModified(1423378839000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Build$Settings$.class -> lastModified(1423378839000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Build.class -> lastModified(1423378839000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$akka$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$akka$streams$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$json4s$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$kafka$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$mysql$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$scalanlp$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$scalaz$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$slick$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies$spray$.class -> lastModified(1423542821000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class -> lastModified(1423542820000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$1.class -> lastModified(1423302110000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$2.class -> lastModified(1423302110000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$3.class -> lastModified(1423302110000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$4.class -> lastModified(1423302110000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$$anonfun$root$5.class -> lastModified(1423302110000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild$.class -> lastModified(1423302110000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/PackageSprayBuild.class -> lastModified(1423302110000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/ResolverSettings$.class -> lastModified(1423262690000)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/target/scala-2.10/sbt-0.13/classes/ResolverSettings.class -> lastModified(1423262690000)
+source stamps:
+5 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> hash(5aa228ee1462a7ee9bd5a010851f0b7429256468)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> hash(105ca30bc0be0012204d16e5765ea37990e185ed)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> hash(0ff31cae8e8642f17ec3785ef3d7e601eb4a3521)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> hash(7382f808bab66f29a1ccde42939cfdef3be49a95)
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> hash(c1e96c92ef4ed101f7df15d0dd0ea2025f384ba0)
+binary stamps:
+13 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1406753776000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.7.jar -> lastModified(1416378822000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar -> lastModified(1416378820000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar -> lastModified(1416378891000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar -> lastModified(1416378944000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar -> lastModified(1416378959000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.7.jar -> lastModified(1416378804000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/run/jars/run-0.13.7.jar -> lastModified(1416378936000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar -> lastModified(1416378955000)
+/Users/ivan/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.7.jar -> lastModified(1416378938000)
+/Users/ivan/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.12.0.jar -> lastModified(1416432667000)
+/Users/ivan/.ivy2/cache/scala_2.10/sbt_0.13/net.virtual-void/sbt-dependency-graph/jars/sbt-dependency-graph-0.7.4.jar -> lastModified(1374503279000)
+/Users/ivan/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+13 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ivan/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.7.jar -> sbt.appmacro.Instance$
+/Users/ivan/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar -> sbt.LinePosition$
+/Users/ivan/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar -> sbt.impl.ModuleIDConfigurable
+/Users/ivan/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar -> sbt.ThisBuild$
+/Users/ivan/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar -> sbt.Keys$
+/Users/ivan/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.7.jar -> sbt.Process$
+/Users/ivan/.ivy2/cache/org.scala-sbt/run/jars/run-0.13.7.jar -> sbt.OutputStrategy
+/Users/ivan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar -> sbt.package$
+/Users/ivan/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.7.jar -> sbt.Task
+/Users/ivan/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.12.0.jar -> sbtassembly.AssemblyKeys
+/Users/ivan/.ivy2/cache/scala_2.10/sbt_0.13/net.virtual-void/sbt-dependency-graph/jars/sbt-dependency-graph-0.7.4.jar -> net.virtualvoid.sbt.graph.Plugin$
+/Users/ivan/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.reflect.ManifestFactory$
+internal apis:
+5 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBBr6AkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHzeA1x0AAxwYWNrYWdlU2NhbGFzcQB+AAwwOlsYdAAGbm90aWZ5c3EAfgAMyzwxt3QAFWFzc2VtYmx5TWVyZ2VTdHJhdGVneXNxAH4ADDUMbb10AAR3YWl0c3EAfgAMmpGTunQAGWFzc2VtYmx5UGFja2FnZURlcGVuZGVuY3lzcQB+AAy8b3mRdAANJGFzSW5zdGFuY2VPZnNxAH4ADKuXjXF0ABZhc3NlbWJseURlZmF1bHRKYXJOYW1lc3EAfgAMJhY4HXQAFGFzc2VtYmx5UGFja2FnZVNjYWxhc3EAfgAMUYh9xXQABmVxdWFsc3NxAH4ADA/0evh0AAxhc0luc3RhbmNlT2ZzcQB+AAzh0KtidAAIYXNzZW1ibHlzcQB+AAz9RU2MdAAMc3luY2hyb25pemVkc3EAfgAMNisJDXQADSRpc0luc3RhbmNlT2ZzcQB+AAy+3PIEdAAOYXNzZW1ibHlPcHRpb25zcQB+AAzbxdrWdAAMQmFzZVNldHRpbmdzc3EAfgAMuXuP73QADmRlZmF1bHRKYXJOYW1lc3EAfgAM7CIGX3QAD2Fzc2VtYmx5SmFyTmFtZXNxAH4ADASLIR90AAlub3RpZnlBbGxzcQB+AAyIXpAmdAAMaXNJbnN0YW5jZU9mc3EAfgAMl/N6G3QAEGFzc2VtYmxlQXJ0aWZhY3RzcQB+AAwbyg6idAAMYmFzZVNldHRpbmdzc3EAfgAMnaO/HHQAD3Byb2plY3RTZXR0aW5nc3NxAH4ADEnrijl0AAxleGNsdWRlZEphcnNzcQB+AAyw5H4BdAAHamFyTmFtZXNxAH4ADBiShDt0AAI9PXNxAH4ADIyx+vx0ABFhc3NlbWJsZWRNYXBwaW5nc3NxAH4ADFnrr590AApvdXRwdXRQYXRoc3EAfgAMWSxEcnQABWNsb25lc3EAfgAMJd2hDXQAFGFzc2VtYmx5RXhjbHVkZWRKYXJzc3EAfgAM5gq1UnQADW1lcmdlU3RyYXRlZ3lzcQB+AAx0z3AIdAAIdG9TdHJpbmdzcQB+AAx46Q7fdAACIT1zcQB+AAxjQa7edAAIZ2V0Q2xhc3NzcQB+AAwGYTm4dAASYXNzZW1ibHlPdXRwdXRQYXRoc3EAfgAMGjEbnnQAEXBhY2thZ2VEZXBlbmRlbmN5c3EAfgAM7Kyg7XQAAm5lc3EAfgAMbBmzBnQAAmVxc3EAfgAMIR1f5HQAAiMjc3EAfgAMNqwJy3QACGZpbmFsaXplc3EAfgAMNNaZlXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgArdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB+AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIVzcQB+AH4BdXEAfgBiAAAAAHBzcQB+AH4BdXEAfgBiAAAAAHBzcQB+AH4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCEdAAMQXNzZW1ibHlLZXlzc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCEc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAtzYnRhc3NlbWJseXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCec3EAfgCRdAAGT2JqZWN0c3EAfgCVc3EAfgCYdXEAfgCbAAAAA3NxAH4AnXQABGphdmFzcQB+AJ10AARsYW5ncQB+AKJzcQB+AJF0AANBbnlzcQB+AJVzcQB+AJh1cQB+AJsAAAACc3EAfgCddAAFc2NhbGFxAH4AonBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUtdUve5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUWqIo7hRip+6b1aAQhR8LdCklZGg=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCWFtRgAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCaQjmZ0AAZub3RpZnlzcQB+AAymIcK/dAAIU2V0dGluZ3NzcQB+AAzTU+x8dAAEd2FpdHNxAH4ADJAvWnJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMMMTsrXQABHJvb3RzcQB+AAxUuAtcdAAFQnVpbGRzcQB+AAzy0+lqdAAGZXF1YWxzc3EAfgAMru/7nHQAB3Byb2plY3RzcQB+AAx319lRdAAMYXNJbnN0YW5jZU9mc3EAfgAM0w6EXHQADHN5bmNocm9uaXplZHNxAH4ADKX7WtZ0AA9nZW5lcmF0ZVZlcnNpb25zcQB+AAx4rwMgdAANJGlzSW5zdGFuY2VPZnNxAH4ADNcK2cR0AAlub3RpZnlBbGxzcQB+AAyilRyKdAAMaXNJbnN0YW5jZU9mc3EAfgAM0IBJwHQAAj09c3EAfgAMDY7qmHQABWNsb25lc3EAfgAMgjn34HQACHRvU3RyaW5nc3EAfgAMTvGFjnQAAiE9c3EAfgAM8dwVvnQACGdldENsYXNzc3EAfgAMI7oAvXQAAm5lc3EAfgAMGa3XZnQAAmVxc3EAfgAM7EuPGnQAAiMjc3EAfgAMQiMf+3QACGZpbmFsaXplc3EAfgAMQzrkwXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAZdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AX3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBnc3EAfgBeAXVxAH4AQgAAAABwc3EAfgBeAXVxAH4AQgAAAABwc3EAfgBeAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Af3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgHNxAH4Ac3QAA0FueXNxAH4Ad3NxAH4AenVxAH4AfQAAAAJzcQB+AH90AAVzY2FsYXEAfgCGcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2f9bK51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABcL1VzZXJzL2l2YW4vRGV2ZWxvcG1lbnQvV2Vzb3ZpL3doaXRlbGFiZWwvY29yZS9tcy9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQQXKMLwL4AEiBNFuV2XqN5kOGF7Q==
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAASR8hAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLRXV0Z0AAxzbGY0al9zaW1wbGVzcQB+AAyzXmnUdAAGbm90aWZ5c3EAfgAMaRKKrnQABWFjdG9yc3EAfgAM5FTEXXQADHNsaWNrVmVyc2lvbnNxAH4ADF4IMlx0AAtwZXJzaXN0ZW5jZXNxAH4ADEE/a350AAlzY2FsYXRlc3RzcQB+AAwf3GdHdAAEd2FpdHNxAH4ADLlLXvl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMw6891XQABXNsaWNrc3EAfgAM+yLfpnQABmVxdWFsc3NxAH4ADFzIrqB0AARqc29uc3EAfgAMfmEV93QADGFzSW5zdGFuY2VPZnNxAH4ADJCQWHB0AAZuYXRpdmVzcQB+AAykBr/gdAAEYWtrYXNxAH4ADGYh3K90AAxzeW5jaHJvbml6ZWRzcQB+AAxSKvN8dAAFaHR0cHhzcQB+AAydbW1UdAAMRGVwZW5kZW5jaWVzc3EAfgAMtM9eGnQADSRpc0luc3RhbmNlT2ZzcQB+AAxIwKIBdAAEYXBuc3NxAH4ADMtc8FJ0AAlub3RpZnlBbGxzcQB+AAwz8sjGdAAQY2Fzc2FuZHJhX2RyaXZlcnNxAH4ADItKIvx0AAxpc0luc3RhbmNlT2ZzcQB+AAw4GRDIdAAHY2x1c3RlcnNxAH4ADBgcOjx0AAZqc29uNHNzcQB+AAx2pTOqdAAHdmVyc2lvbnNxAH4ADEFndPt0AAVrYWZrYXNxAH4ADN3cyVF0AAhzY2FsYW5scHNxAH4ADHTvxIx0AAlwYXJib2lsZWRzcQB+AAyc/GCddAADY2Fuc3EAfgAMC2NCbHQAB3N0cmVhbXNzcQB+AAxO/a0LdAAKc2NhbGFjaGVja3NxAH4ADA2Lrt90AAI9PXNxAH4ADCSDjbt0ABVwZXJzaXN0ZW5jZV9jYXNzYW5kcmFzcQB+AAwpxtundAAGYnJlZXplc3EAfgAM0SDqznQABWNsb25lc3EAfgAM3webrXQACWh0dHBfY29yZXNxAH4ADHEWLo50AAZjbGllbnRzcQB+AAy8uHpjdAAHamFja3NvbnNxAH4ADJzDfdh0AAljb25uZWN0b3JzcQB+AAyGOa3+dAAQc3ByYXlKc29uVmVyc2lvbnNxAH4ADERDdNZ0AAdyb3V0aW5nc3EAfgAMdoie33QACHRvU3RyaW5nc3EAfgAM/xCVHHQAB2xldmVsZGJzcQB+AAz826Z7dAAFbXlzcWxzcQB+AAy4BqwQdAAFc3ByYXlzcQB+AAzesCXTdAAHY29udHJpYnNxAH4ADO0Qfjt0AAIhPXNxAH4ADGkXUel0AAhnZXRDbGFzc3NxAH4ADFbeAnp0AA1zY2FsYV9yZWZsZWN0c3EAfgAMEA/1+3QABGNvcmVzcQB+AAwZT+jddAADbmFrc3EAfgAMb9EqfHQABXNsZjRqc3EAfgAMubyuxXQABGh0dHBzcQB+AAwog6KedAACbmVzcQB+AAxWwjT+dAAGc2NhbGF6c3EAfgAMZDP6aHQAAmVxc3EAfgAMlviZOnQABnNwZWNzMnNxAH4ADBhdOO90AAIjI3NxAH4ADDXqGGh0AAhmaW5hbGl6ZXNxAH4ADDn6ujR0AAduYXRpdmVzc3EAfgAM5kgVvnQACGhhc2hDb2Rlc3EAfgAMhpjHlXQAC3Njb2RlY19iaXRzc3EAfgAMDfeqcXQAB3Rlc3RraXRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AC91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AKwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJVMAAlpbmhlcml0ZWRxAH4AlUwAB3BhcmVudHNxAH4AlXhxAH4As3NxAH4ArAF1cQB+AJAAAAAAcHNxAH4ArAF1cQB+AJAAAAAAcHNxAH4ArAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMt0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMxzcQB+AL90AANBbnlzcQB+AMNzcQB+AMZ1cQB+AMkAAAACc3EAfgDLdAAFc2NhbGFxAH4A0nBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUtxw5gwdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUD/Mcro6GQvF+w3he89fmAetKNSE=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDqYPkKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIPBOQV0AAZub3RpZnlzcQB+AAx5KENBdAAEd2FpdHNxAH4ADBD7gkB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMD4TVT3QADGJ1aWxkTG9hZGVyc3NxAH4ADMCKNzJ0AARyb290c3EAfgAM0W0UfnQABmVxdWFsc3NxAH4ADO2Ih1p0AAxhc0luc3RhbmNlT2ZzcQB+AAzgmiF0dAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMU9UttnQADHN5bmNocm9uaXplZHNxAH4ADL2B0NJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAM/fQ0mXQACW5vdGlmeUFsbHNxAH4ADBEWAgB0AAtyb290UHJvamVjdHNxAH4ADG6IZUd0AAxpc0luc3RhbmNlT2ZzcQB+AAyDQpHgdAAGZG9ja2Vyc3EAfgAMLfPnKHQAAj09c3EAfgAM/La0nXQABWNsb25lc3EAfgAMtPVQznQAEVBhY2thZ2VTcHJheUJ1aWxkc3EAfgAMtbQOunQACHRvU3RyaW5nc3EAfgAMT3z8kHQAAiE9c3EAfgAMrnsvuXQACHByb2plY3Rzc3EAfgAMDvr1jnQACGdldENsYXNzc3EAfgAMY95yqnQAAm5lc3EAfgAMruUn6XQAAmVxc3EAfgAMYCwcj3QACHNldHRpbmdzc3EAfgAMpj40WHQAAiMjc3EAfgAM/rT5wHQACGZpbmFsaXplc3EAfgAMfoob03QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAvdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBtc3EAfgBkAXVxAH4ASAAAAABwc3EAfgBkAXVxAH4ASAAAAABwc3EAfgBkAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbHQABUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANzYnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnNxAH4AeXQABk9iamVjdHNxAH4AfXNxAH4AgHVxAH4AgwAAAANzcQB+AIV0AARqYXZhc3EAfgCFdAAEbGFuZ3EAfgCKc3EAfgB5dAADQW55c3EAfgB9c3EAfgCAdXEAfgCDAAAAAnNxAH4AhXQABXNjYWxhcQB+AIpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLY2qn0HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFwvVXNlcnMvaXZhbi9EZXZlbG9wbWVudC9XZXNvdmkvd2hpdGVsYWJlbC9jb3JlL21zL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHOC+Ai6tm8poczeQpOc/e875JqV
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAF5l09AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNYoOPx0ABBSZXNvbHZlclNldHRpbmdzc3EAfgAMqDOjQHQABm5vdGlmeXNxAH4ADDk95Jl0AAR3YWl0c3EAfgAMawpAIHQADSRhc0luc3RhbmNlT2ZzcQB+AAwE/IWKdAAGZXF1YWxzc3EAfgAM8SjcEnQADGFzSW5zdGFuY2VPZnNxAH4ADNn0kT90AAxzeW5jaHJvbml6ZWRzcQB+AAzK9hcPdAANJGlzSW5zdGFuY2VPZnNxAH4ADJSQApJ0AAlyZXNvbHZlcnNzcQB+AAwekkz7dAAJbm90aWZ5QWxsc3EAfgAMR11jLXQADGlzSW5zdGFuY2VPZnNxAH4ADIzHeW90AAI9PXNxAH4ADLkE18Z0AAVjbG9uZXNxAH4ADODvWAB0AAh0b1N0cmluZ3NxAH4ADMZTiG90AAIhPXNxAH4ADLiFKfV0AAhnZXRDbGFzc3NxAH4ADOKNsm90AAJuZXNxAH4ADEzUjGh0AAJlcXNxAH4ADAfecmZ0AAIjI3NxAH4ADN1YuBp0AAhmaW5hbGl6ZXNxAH4ADC6ymHl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AD3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBfc3EAfgBYAXVxAH4APAAAAABwc3EAfgBYAXVxAH4APAAAAABwc3EAfgBYAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ad3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHNxAH4Aa3QAA0FueXNxAH4Ab3NxAH4AcnVxAH4AdQAAAAJzcQB+AHd0AAVzY2FsYXEAfgB+cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2ERJmR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABcL1VzZXJzL2l2YW4vRGV2ZWxvcG1lbnQvV2Vzb3ZpL3doaXRlbGFiZWwvY29yZS9tcy9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTB6WyS707RAfffFdDdDqICXzhLoA==
+external apis:
+0 items
+source infos:
+5 items
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/BaseSettings.scala -> 
+AAAAAAAAAAA=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Build.scala -> 
+AAAAAAAAAAA=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/Dependencies.scala -> 
+AAAAAAAAAAA=
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/PackageSprayBuild.scala -> 
+AAAAAAAAAAEAAAEAAAAEAEYgIGxhenkgdmFsIHJvb3QgPSBQcm9qZWN0KCJwYWNrYWdlLXNwcmF5IiwgZmlsZSgiLiIpKSBkZXBlbmRzT24gZG9ja2VyAQAAAHcBAAAAQAEAQCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAFEvVXNlcnMvaXZhbi9EZXZlbG9wbWVudC9XZXNvdmkvd2hpdGVsYWJlbC9jb3JlL21zL3Byb2plY3QvUGFja2FnZVNwcmF5QnVpbGQuc2NhbGEBAFEvVXNlcnMvaXZhbi9EZXZlbG9wbWVudC9XZXNvdmkvd2hpdGVsYWJlbC9jb3JlL21zL3Byb2plY3QvUGFja2FnZVNwcmF5QnVpbGQuc2NhbGEAZG1ldGhvZCB1cmlUb1JlZiBpbiBvYmplY3QgUmVmZXJlbmNlIGlzIGRlcHJlY2F0ZWQ6IEV4cGxpY2l0bHkgd3JhcCB0aGUgVVJJIGluIGEgY2FsbCB0byBSb290UHJvamVjdC4B
+/Users/ivan/Development/Wesovi/whitelabel/core/ms/project/ResolverSettings.scala -> 
+AAAAAAAAAAA=
+compilations:
+19 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS1yaqDV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS11S97l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2ENTbx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2EQJn11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2ERJmR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2NmQDx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2Nqp9B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2V6DUJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2V9h9p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2fkw111cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2fyYjh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2f9bK51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2i90mB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS2/XQNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3A0CJd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3G7Lj91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3G+mNp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3HAGAB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3HDmDB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9pdmFuL0RldmVsb3BtZW50L1dlc292aS93aGl0ZWxhYmVsL2NvcmUvbXMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
