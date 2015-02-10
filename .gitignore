@@ -1,0 +1,16 @@
+bin
+.metadata
+*~
+target
+*/target/*
+.project
+.classpath
+.settings
+mem.h2.db
+.springBeans
+*.pid
+*.iml
+*.out
+*.log
+*.txt
+*.idea
