@@ -1,0 +1,7 @@
+[
+    {
+        "operation":"replace",
+        "path":"/name",
+        "value":"PepitoGrillo"
+    }
+]

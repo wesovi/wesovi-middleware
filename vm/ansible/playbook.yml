@@ -1,0 +1,12 @@
+- hosts: all
+  remote_user: vagrant
+  sudo: yes
+  vars_files:
+    - vars/variables.yml
+  roles:
+    - postgresql
+    - pgbouncer
+    - scala
+    - docker
+    - mongodb
+    - neo4j

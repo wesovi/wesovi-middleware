@@ -14,3 +14,6 @@ mem.h2.db
 *.log
 *.txt
 *.idea
+.idea_modules
+.idea
+*/.vagrant
