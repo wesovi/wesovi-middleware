@@ -1,12 +1,9 @@
-bin
 .metadata
-*~
 target
 */target/*
 .classpath
 .settings
 mem.h2.db
-.springBeans
 *.pid
 *.iml
 *.out

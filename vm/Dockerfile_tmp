@@ -44,12 +44,12 @@ RUN wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-k
 ADD start /start-pg
 RUN chmod 755 /start-pg
 
+EXPOSE 5432
+
 VOLUME ["/var/lib/postgresql"]
 VOLUME ["/run/postgresql"]
 CMD ["/start-pg"]
 
-#Expose ports
-EXPOSE 5432
 
 #Install rabbitmq
 # Add files.
@@ -67,14 +67,14 @@ RUN \
   chmod +x /usr/local/bin/rabbitmq-start
 
 # Define environment variables.
-ENV RABBITMQ_LOG_BASE /data/rabbitmq/log
-ENV RABBITMQ_MNESIA_BASE /data/rabbitmq/mnesia
+ENV RABBITMQ_LOG_BASE /data/log
+ENV RABBITMQ_MNESIA_BASE /data/mnesia
 
 # Define mount points.
-VOLUME ["/data/rabbitmq/log", "/data/rabbitmq/mnesia"]
+VOLUME ["/data/log", "/data/mnesia"]
 
 # Define working directory.
-WORKDIR /data/rabbitmq
+WORKDIR /data
 
 # Define default command.
 CMD ["rabbitmq-start"]

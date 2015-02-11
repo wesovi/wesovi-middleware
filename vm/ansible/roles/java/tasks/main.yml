@@ -1,23 +1,31 @@
----
-- name: 'Update Apt'
-  apt: update_cache=yes
+- name: Install os packages
+  apt: 
+    pkg: "{{item}}"
+    state: present 
+    update_cache: yes
+  with_items: 
+    - openjdk-{{java_version}}-jre-headless
+    - openjdk-{{java_version}}-jdk
 
-- name: Install Dependencies
-  apt: pkg={{ item }}
-       state=present
-  with_items:
-    - python-software-properties
-    - python-apt
-    - python-pycurl
+- name: Resolve {{java_libjvm_path}}
+  shell: find {{java_libjvm_path}}
+  register: libjvm_path_resolved
 
-- name: Add JDK 7 ppa
-  apt_repository: repo='ppa:webupd8team/java' state=present
+# Here we get back to ansible land...
+- name: Check for {{libjvm_path_resolved}}
+  stat: 
+    path: "{{libjvm_path_resolved.stdout}}"
+  register: libjvm
 
-- name: 'Update Apt'
-  apt: update_cache=yes
+- name: Link libjvm
+  shell: ln -nsf {{libjvm_path_resolved.stdout}} {{java_libjvm_symlink_path}}
+  when: libjvm.stat.exists == true
 
-- name: Accept Licence Agreements
-  shell: sudo echo oracle-java7-installer shared/accepted-oracle-license-v1-1 select true | sudo /usr/bin/debconf-set-selections
+- name: Check if symlink created
+  stat: 
+    path: "{{java_libjvm_symlink_path}}"
+  register: libjvm_symlink
 
-- name: 'Install Java 7'
-  apt: pkg=oracle-java7-installer state=present
+- fail: 
+    msg: "Could not create libjvm symlink {{java_libjvm_symlink_path}}"
+  when: libjvm_symlink.stat.exists == False

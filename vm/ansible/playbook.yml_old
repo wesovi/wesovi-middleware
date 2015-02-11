@@ -5,3 +5,7 @@
     - vars/variables.yml
   roles:
     - docker
+    - postgresql
+    - pgbouncer
+    - mongodb
+    - neo4j

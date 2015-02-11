@@ -6,7 +6,7 @@ VAGRANTFILE_API_VERSION = "2"
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.box = "ubuntu/trusty64"
   #config.vm.network :forwarded_port, host: 4444, guest: 1122
-  config.vm.synced_folder "shared", "/vagrant"
+  config.vm.synced_folder "../", "/opt/wesovi-middleware"
   config.ssh.insert_key = false
 
   config.vm.provider "virtualbox" do |v|
@@ -22,13 +22,18 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
       development.vm.network "private_network", ip: "192.168.77.21"
   end
 
-
   config.vm.provision :ansible do |ansible|
       ansible.sudo           = true
       ansible.limit          = 'all'
       ansible.playbook       = "ansible/playbook.yml"
       ansible.verbose        = "vvv"
-      #ansible.inventory_path = "ansible/environments/development"
+  end
+
+
+  config.vm.provision "docker" do |d|
+    d.pull_images 'ubuntu:precise'
+    #d.build_image "/opt/wesovi-middleware/vm/docker/ubuntu/java8/"
+    d.build_image "/opt/wesovi-middleware/vm/docker/ubuntu/mongodb/", args: "-t wesovi/middleware"
   end
 
 end
