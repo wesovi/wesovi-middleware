@@ -4,36 +4,83 @@
 VAGRANTFILE_API_VERSION = "2"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
-  config.vm.box = "ubuntu/trusty64"
-  #config.vm.network :forwarded_port, host: 4444, guest: 1122
-  config.vm.synced_folder "../", "/opt/wesovi-middleware"
-  config.ssh.insert_key = false
 
-  config.vm.provider "virtualbox" do |v|
-    v.memory = 2048
+  config.vm.define "integration" do |it|
+
+        it.vm.hostname = 'development'
+        it.vm.box = "ubuntu/trusty64"
+        it.vm.box_check_update = true
+        it.ssh.insert_key = false
+        it.vm.network :forwarded_port, guest: 2112, host: 1234
+
+        it.vm.provider "virtualbox" do |v|
+          v.memory = 2048
+          v.cpus = 2
+        end
+
+        it.vm.synced_folder "../", "/opt/wesovi-middleware"
+
+        it.vm.provision "shell", path: "bootstrap.sh"
+
+        it.vm.provider "ansible" do |ansible|
+          ansible.sudo           = true
+          ansible.limit          = 'all'
+          ansible.playbook       = "ansible/playbook.yml"
+          ansible.verbose        = "vvv"
+        end
+
+        it.vm.provider "docker" do |docker|
+          docker.build_dir       = "./docker/"
+          docker.build_args      = "-t=wesovi/integration"
+          docker.has_ssh         = true
+          docker.ports           = ["27017:27017"]
+        end
   end
 
 
-  config.vm.provision "shell", path: "bootstrap.sh"
+
+  config.vm.define "development" do |dev|
+
+      dev.vm.hostname = 'development'
+      dev.vm.box = "ubuntu/trusty64"
+      dev.vm.box_url = "http://files.vagrantup.com/precise64.box"
+      dev.vm.box_check_update = true
+      dev.ssh.insert_key = true
+
+      #dev.vm.network :forwarded_port, guest: 2112, host: 2233
+      dev.vm.network  "private_network", ip: "192.168.50.4", auto_config: false
+
+      dev.vm.provider "virtualbox" do |v|
+        v.memory = 2048
+        v.cpus = 2
+      end
+
+      dev.vm.synced_folder "../", "/opt/wesovi-middleware"
+      dev.vm.synced_folder "docker/development", "/opt/docker"
+
+      dev.vm.provision "shell", path: "bootstrap.sh"
+
+      dev.vm.provision "ansible" do |ansible|
+        ansible.sudo           = true
+        ansible.limit          = 'all'
+        ansible.playbook       = "ansible/playbook.yml"
+        ansible.verbose        = "vvv"
+      end
 
 
-  config.vm.define 'development' do |development|
-      development.vm.hostname = 'dev.wesovi.com'
-      development.vm.network "private_network", ip: "192.168.77.21"
-  end
+      dev.vm.provision "docker" do |docker|
+        docker.build_image  "/opt/docker", args: "-t wesovi/development"
+      end
 
-  config.vm.provision :ansible do |ansible|
-      ansible.sudo           = true
-      ansible.limit          = 'all'
-      ansible.playbook       = "ansible/playbook.yml"
-      ansible.verbose        = "vvv"
-  end
+      dev.vm.provider "docker" do |docker|
+        docker.build_dir       = "/Users/ivan/Development/Wesovi/whitelabel/core/ms/vm/docker/development"
+        docker.build_args      = "-t=wesovi/development"
+        docker.has_ssh         = true
+        docker.ports           = ["27017:27017"]
+        docker.remains_running = true
+      end
 
 
-  config.vm.provision "docker" do |d|
-    d.pull_images 'ubuntu:precise'
-    #d.build_image "/opt/wesovi-middleware/vm/docker/ubuntu/java8/"
-    d.build_image "/opt/wesovi-middleware/vm/docker/ubuntu/mongodb/", args: "-t wesovi/middleware"
-  end
+   end
 
 end
